@@ -1,6 +1,6 @@
 {
 	"name": "jp.illusive-isc.reframe-rurune",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"displayName": "ReFrame for rurune",
 	"description": "rurune 用の ReFrame 宣言 (ReFrameCore の IKUSIA 共通基盤を継承)",
 	"unity": "2022.3",
