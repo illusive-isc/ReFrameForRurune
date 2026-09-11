@@ -1,5 +1,9 @@
 # Changelog — ReFrame for rurune
 
+## 0.0.6
+
+- README を利用者向けの説明に書き直しました。
+
 ## 0.0.5
 
 - パッケージの説明の書き方を揃えました。
