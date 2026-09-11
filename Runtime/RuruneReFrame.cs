@@ -38,11 +38,6 @@ namespace jp.illusive_isc.ReFrame.IKUSIA.Rurune
     [ReFrameGroupLabel("Pet", "ペット (サメ)")]
     [ReFrameGroupLabel("Particle", "パーティクル")]
     [ReFrameGroupLabel("Jump&Dash", "ジャンプ・ダッシュ")]
-    [ReFrameCutCovered(
-        "Body_b",
-        Covers = new[] { "jacket", "cloth", "acce", "gloves", "knee-socks", "boots", "underwear" },
-        MaskAsset = "Packages/jp.illusive-isc.reframe-rurune/Runtime/CoveredMasks/Body_b.txt"
-    )]
     [ReFrameQuestCutTransparent("Body", 0)]
     [ReFrameQuestCutTransparent("Body", 1)]
     [ReFrameQuestDropMaterial("acce", 2)]
